@@ -5,6 +5,7 @@ langchain-core
 langchain-community
 langchain-huggingface
 langchain-text-splitters
+sentence-transformers
 langgraph
 chromadb
 pdfplumber
